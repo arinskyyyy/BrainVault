@@ -8,33 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd9ba109df3c82d0",
+            "id": "3982cfddff4966e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Test Note.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3ea839714b7fef80",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff81a5c1a88582e7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Test Note.md"
             }
           }
         ]
@@ -190,17 +174,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cd9ba109df3c82d0",
+  "active": "f084fa39967313d1",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Apple Notes/Dljfdjdkgjlrgjn.md",
+    "Apple Notes/Calisthenics Workout .md",
+    "Apple Notes/Different Goals.md",
+    "Apple Notes/Learning 4 days in a week, practicing and revising for 2 days, with….md",
+    "Apple Notes/To build .md",
+    "Apple Notes/Universal tools to learn in computer science.md",
+    "Welcome.md",
+    "Apple Notes",
+    "Test Note.md.md"
   ]
 }
