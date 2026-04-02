@@ -2,7 +2,7 @@
 open( ) function - 
 - create or open file 
 - syntax : file = open('example.txt', 'w') | file = open('filepath', mode)
-- modes : how to use the file - 'w' write, 'r' read, 'a' write from the end of a file
+- modes : how to use the file - 'w' write, 'r' read, 'a' write from the end of a file, 'r+' both read and write
 - 'w' overwrites everything in the file, use 'a'.
 
 .write( ) method -
