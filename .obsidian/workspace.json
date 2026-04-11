@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6949ece8b5298f49",
+            "id": "eef7e40f6937349e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Python/Intermediate python with data structures/File Operations.md",
+                "file": "02_Concepts/Python/Intermediate python with data structures/8. Decorators and Generators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File Operations"
+              "title": "8. Decorators and Generators"
             }
           }
         ]
@@ -186,11 +186,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6949ece8b5298f49",
+  "active": "eef7e40f6937349e",
   "lastOpenFiles": [
-    "02_Concepts/Python/Intermediate python with data structures/File Handing.md",
-    "02_Concepts/Python/Intermediate python with data structures/File Operations.md",
-    "02_Concepts/Python/Intermediate python with data structures/Data types.md",
+    "Screenshot 2026-04-11 at 1.13.54 PM.png",
+    "02_Concepts/Python/Intermediate python with data structures/8. Decorators and Generators.md",
+    "02_Concepts/Python/Intermediate python with data structures/7. list Comprehensions.md",
+    "02_Concepts/Python/Intermediate python with data structures/6. Transforming Data.md",
+    "02_Concepts/Python/Intermediate python with data structures/5. Functional Programming.md",
+    "02_Concepts/Python/Intermediate python with data structures/4. CSV FIles.md",
+    "02_Concepts/Python/Intermediate python with data structures/1. Data types.md",
+    "02_Concepts/Python/Intermediate python with data structures/3. File Operations.md",
+    "02_Concepts/Python/Intermediate python with data structures/2. File Handing.md",
     "02_Concepts/Python/Intermediate python with data structures",
     "02_Concepts/Python",
     "Hello.md",
