@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Python/Pandas/5. Data Manipulation.md",
+                "file": "02_Concepts/Python/Pandas/4. Filtering Rows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Data Manipulation"
+              "title": "4. Filtering Rows"
             }
           }
         ]
@@ -188,15 +188,15 @@
   },
   "active": "a323d2cf9461f2a2",
   "lastOpenFiles": [
-    "02_Concepts/Python/Pandas/4. Filtering Rows.md",
+    "02_Concepts/Python/Pandas/3. Series.md",
+    "02_Concepts/Python/Pandas/2. Data Exploration.md",
+    "02_Concepts/Python/Pandas/1. Pandas and Dataframes.md",
     "02_Concepts/Python/Pandas/5. Data Manipulation.md",
+    "02_Concepts/Python/Pandas/4. Filtering Rows.md",
     "02_Concepts/Python/Intermediate python with data structures/6. Transforming Data.md",
     "02_Concepts/Python/Intermediate python with data structures/5. Functional Programming.md",
     "02_Concepts/Python/Intermediate python with data structures/4. CSV FIles.md",
     "02_Concepts/Python/Intermediate python with data structures/2. File Handing.md",
-    "02_Concepts/Python/Pandas/3. Series.md",
-    "02_Concepts/Python/Pandas/2. Data Exploration.md",
-    "02_Concepts/Python/Pandas/1. Pandas and Dataframes.md",
     "02_Concepts/Python/Intermediate python with data structures/7. list Comprehensions.md",
     "02_Concepts/Python/Intermediate python with data structures/8. Decorators and Generators.md",
     "02_Concepts/Python/Intermediate python with data structures/3. File Operations.md",
