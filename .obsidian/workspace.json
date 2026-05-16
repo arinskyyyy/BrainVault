@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Python/Pandas/7. Index.md",
+                "file": "02_Concepts/Python/Pandas/7. Selection by Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Index"
+              "title": "7. Selection by Index"
             }
           }
         ]
@@ -188,13 +188,13 @@
   },
   "active": "04e8c03dcb234351",
   "lastOpenFiles": [
-    "02_Concepts/Python/Pandas/6. Import files.md",
-    "02_Concepts/Python/Pandas/7. Index.md",
-    "02_Concepts/Python/Pandas/5. Data Manipulation.md",
-    "02_Concepts/Python/Pandas/4. Filtering Rows.md",
-    "02_Concepts/Python/Pandas/3. Series.md",
-    "02_Concepts/Python/Pandas/2. Data Exploration.md",
     "02_Concepts/Python/Pandas/1. Pandas and Dataframes.md",
+    "02_Concepts/Python/Pandas/3. Series.md",
+    "02_Concepts/Python/Pandas/4. Filtering Rows.md",
+    "02_Concepts/Python/Pandas/5. Data Manipulation.md",
+    "02_Concepts/Python/Pandas/6. Import files.md",
+    "02_Concepts/Python/Pandas/7. Selection by Index.md",
+    "02_Concepts/Python/Pandas/2. Data Exploration.md",
     "02_Concepts/Sequel (SQL)/Introduction.md",
     "02_Concepts/Python/Matplotlib/Data Visualization.md",
     "02_Concepts/Sequel (SQL)",
