@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Python/Pandas/7. Selection by Index.md",
+                "file": "02_Concepts/Python/Pandas/8. Messy Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Selection by Index"
+              "title": "8. Messy Data"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "64b90b29b4ed71d2",
@@ -189,13 +188,14 @@
   },
   "active": "04e8c03dcb234351",
   "lastOpenFiles": [
-    "02_Concepts/Python/Pandas/1. Pandas and Dataframes.md",
+    "02_Concepts/Python/Pandas/7. Selection by Index.md",
+    "02_Concepts/Python/Pandas/8. Messy Data.md",
+    "02_Concepts/Python/Pandas/2. Data Exploration.md",
     "02_Concepts/Python/Pandas/3. Series.md",
+    "02_Concepts/Python/Pandas/1. Pandas and Dataframes.md",
+    "02_Concepts/Python/Pandas/6. Import files.md",
     "02_Concepts/Python/Pandas/4. Filtering Rows.md",
     "02_Concepts/Python/Pandas/5. Data Manipulation.md",
-    "02_Concepts/Python/Pandas/6. Import files.md",
-    "02_Concepts/Python/Pandas/7. Selection by Index.md",
-    "02_Concepts/Python/Pandas/2. Data Exploration.md",
     "02_Concepts/Sequel (SQL)/Introduction.md",
     "02_Concepts/Python/Matplotlib/Data Visualization.md",
     "02_Concepts/Sequel (SQL)",
@@ -222,7 +222,6 @@
     "Apple Notes/Learning 4 days in a week, practicing and revising for 2 days, with….md",
     "Apple Notes/To build .md",
     "Apple Notes/Universal tools to learn in computer science.md",
-    "Welcome.md",
     "Apple Notes"
   ]
 }
