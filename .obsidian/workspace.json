@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Python/Pandas/8. Messy Data.md",
+                "file": "02_Concepts/Python/Pandas/9. Duplicate Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Messy Data"
+              "title": "9. Duplicate Data"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "04e8c03dcb234351",
   "lastOpenFiles": [
-    "02_Concepts/Python/Pandas/7. Selection by Index.md",
     "02_Concepts/Python/Pandas/8. Messy Data.md",
+    "02_Concepts/Python/Pandas/9. Duplicate Data.md",
+    "02_Concepts/Python/Pandas/7. Selection by Index.md",
     "02_Concepts/Python/Pandas/2. Data Exploration.md",
     "02_Concepts/Python/Pandas/3. Series.md",
     "02_Concepts/Python/Pandas/1. Pandas and Dataframes.md",
@@ -221,7 +222,6 @@
     "Apple Notes/Different Goals.md",
     "Apple Notes/Learning 4 days in a week, practicing and revising for 2 days, with….md",
     "Apple Notes/To build .md",
-    "Apple Notes/Universal tools to learn in computer science.md",
     "Apple Notes"
   ]
 }
