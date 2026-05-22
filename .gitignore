@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+*.code-workspace
+.idea/
+
+# Python
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log*
+
+# Build / outputs
+dist/
+build/
+out/
+
+# Env / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Temp / swap / backups
+*~
+*.swp
+*.tmp
+*.bak
+
+# Obsidian (optional — ignore local workspace/cache/plugin data)
+.obsidian/workspace
+.obsidian/cache
+.obsidian/plugins/*/data
+
+# Optional: large attachments
+# attachments/
