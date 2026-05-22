@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Python/Pandas/10. String Manipulation.md",
+                "file": "02_Concepts/Python/Pandas/X. String Manipulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. String Manipulation"
+              "title": "X. String Manipulation"
             }
           }
         ]
@@ -193,7 +193,7 @@
     "02_Concepts/Git and GitHub",
     "02_Concepts/Command line Interface (CLI)",
     "02_Concepts/Regular Expressions (Regex)",
-    "02_Concepts/Python/Pandas/10. String Manipulation.md",
+    "02_Concepts/Python/Pandas/X. String Manipulation.md",
     "02_Concepts/Python/Pandas/1. Pandas and Dataframes.md",
     "02_Concepts/Python/Pandas/2. Data Exploration.md",
     "02_Concepts/Python/Pandas/3. Series.md",
