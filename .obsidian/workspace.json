@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Python/Pandas/9. Duplicate Data and Data types.md",
+                "file": "02_Concepts/Regular Expressions (Regex)/1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Duplicate Data and Data types"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -186,10 +186,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "04e8c03dcb234351",
+  "active": "f084fa39967313d1",
   "lastOpenFiles": [
-    "02_Concepts/Python/Pandas/10. String Manipulation.md",
     "02_Concepts/Python/Pandas/9. Duplicate Data and Data types.md",
+    "02_Concepts/Regular Expressions (Regex)/1. Introduction.md",
+    "02_Concepts/Git and GitHub",
+    "02_Concepts/Command line Interface (CLI)",
+    "02_Concepts/Regular Expressions (Regex)",
+    "02_Concepts/Python/Pandas/10. String Manipulation.md",
     "02_Concepts/Python/Pandas/1. Pandas and Dataframes.md",
     "02_Concepts/Python/Pandas/2. Data Exploration.md",
     "02_Concepts/Python/Pandas/3. Series.md",
@@ -221,7 +225,6 @@
     "Apple Notes/Dljfdjdkgjlrgjn.md",
     "Apple Notes/Calisthenics Workout .md",
     "Apple Notes/Different Goals.md",
-    "Apple Notes/Learning 4 days in a week, practicing and revising for 2 days, with….md",
     "Apple Notes"
   ]
 }
