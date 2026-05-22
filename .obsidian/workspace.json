@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Python/Pandas/9. Duplicate Data.md",
+                "file": "02_Concepts/Python/Pandas/9. Duplicate Data and Data types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Duplicate Data"
+              "title": "9. Duplicate Data and Data types"
             }
           }
         ]
@@ -186,10 +186,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "04e8c03dcb234351",
+  "active": "f084fa39967313d1",
   "lastOpenFiles": [
     "02_Concepts/Python/Pandas/8. Messy Data.md",
-    "02_Concepts/Python/Pandas/9. Duplicate Data.md",
+    "02_Concepts/Python/Pandas/9. Duplicate Data and Data types.md",
     "02_Concepts/Python/Pandas/7. Selection by Index.md",
     "02_Concepts/Python/Pandas/2. Data Exploration.md",
     "02_Concepts/Python/Pandas/3. Series.md",
