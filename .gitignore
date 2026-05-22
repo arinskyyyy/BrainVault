@@ -42,6 +42,7 @@ out/
 *.bak
 
 # Obsidian (optional — ignore local workspace/cache/plugin data)
+.obsidian/
 .obsidian/workspace
 .obsidian/cache
 .obsidian/plugins/*/data
