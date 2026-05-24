@@ -9,7 +9,7 @@ SQL statements, or **queries**, are instructions that the database understands.
 
 the Asterisk( * ) :
 
-```.sql
+```sql
 SELECT * FROM shows;
 ```
 
@@ -21,7 +21,7 @@ SELECT * FROM shows;
 
 Specific Columns :
 
-```.sql
+```sql
 SELECT column1, column2, column3
 FROM table_name;
 ```
@@ -30,9 +30,21 @@ FROM table_name;
 
 Unique Values :
 
-```.sql
+```sql
 SELECT DISTINCT genre
 FROM shows;
 ```
 
 - When analyzing the database, to view unique values in a column, instead of duplicates.
+
+Where :
+
+```sql
+SELECT *
+FROM shows
+WHERE id = 23;
+```
+
+- to filter information, based on condition using comparison operators.
+
+**Note:** The `WHERE` keyword always goes after the `FROM`part of the query.
