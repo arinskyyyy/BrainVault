@@ -27,3 +27,12 @@ FROM table_name;
 ```
 
 **Note**: SQL keywords like `SELECT` and `FROM` are not case-sensitive, but it's common to write them in uppercase to distinguish them from column names (`id`, `name`, `genre`) and table names (`shows`), which are written in lowercase.
+
+Unique Values :
+
+```.sql
+SELECT DISTINCT genre
+FROM shows;
+```
+
+- When analyzing the database, to view unique values in a column, instead of duplicates.
