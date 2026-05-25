@@ -37,7 +37,7 @@ FROM shows;
 
 - When analyzing the database, to view unique values in a column, instead of duplicates.
 
-Where :
+WHERE :
 
 ```sql
 SELECT *
