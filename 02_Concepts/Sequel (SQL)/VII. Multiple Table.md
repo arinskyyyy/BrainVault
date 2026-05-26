@@ -11,6 +11,6 @@ There are several types of joins in SQL, each serving a different purpose:
 - `FULL JOIN`
 - `UNION`
 
-!something (https://i.imgur.com/0cmu2DP.png)
+![something](https://i.imgur.com/0cmu2DP.png)
 
  
