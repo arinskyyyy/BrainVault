@@ -11,6 +11,6 @@ There are several types of joins in SQL, each serving a different purpose:
 - `FULL JOIN`
 - `UNION`
 
-<img src="https://i.imgur.com/0cmu2DP.png" width="400">
-
- 
+<p align="center">
+  <img src="https://i.imgur.com/0cmu2DP.png" width="400">
+</p>
